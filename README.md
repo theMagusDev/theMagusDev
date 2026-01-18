@@ -16,7 +16,7 @@ I am an ML Engineer focused on **NLP**, **multi-agent systems**, and **classic M
 * **Classic ML:** Scikit-learn, CatBoost, XGBoost, LightGBM, PyTorch, MLflow.
 * **Data:** SQL, NumPy, Pandas, Matplotlib, Seaborn, SciPy.
 
-**Support tools (Backend & DevOps)**
+**Auxiliary tools (Backend & DevOps)**
 * **Languages:** Python (FastAPI, Pydantic), Go, Java/Kotlin.
 * **Infrastructure:** Docker, Git, Bash.
 
