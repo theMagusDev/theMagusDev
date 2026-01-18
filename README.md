@@ -1,6 +1,6 @@
 # Yuriy Magus
 
-### ML Engineer | NLP & Multi-Agent Systems Specialist
+### ML/NLP Engineer
 
 I am an ML Engineer focused on **NLP**, **multi-agent systems**, and **classic ML**. I prioritize projects that deliver a direct, measurable impact on business growth and user experience.
 
