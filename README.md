@@ -1,26 +1,43 @@
 # Yuriy Magus
 
-### ML/NLP Engineer
+### NLP / LLM Engineer
 
-I am an ML Engineer focused on **NLP**, **multi-agent systems**, and **classic ML**. I prioritize projects that deliver a direct, measurable impact on business growth and user experience.
+I am an NLP Engineer focused on **LLM systems, RAG, and AI agents**. I enjoy building end-to-end AI systems: from retrieval and evaluation pipelines to agent orchestration and production deployment.
 
-### About me
-* **Business-Centric:** I build AI solutions to solve real-world problems, not just for the sake of technology.
-* **Reliability:** strict follower of the **GTD (Getting Things Done)** system — I never miss a deadline.
-* **Team Player:** I thrive in collaborative environments and enjoy achieving ambitious goals together.
+### About Me
+
+* **LLM Systems:** building production-oriented pipelines around modern language models, with a focus on reliability, evaluation, and system-level trade-offs.
+* **RAG & Retrieval:** experience with vector, hybrid, and graph-based retrieval, retrieval evaluation, chunking strategies, reranking, and generation pipelines.
+* **AI Agents:** developing multi-agent and agentic workflows with tool use, orchestration, structured outputs, and explicit control over execution flow.
+* **Engineering Mindset:** I care about measurable quality, reproducibility, observability, latency, and maintainable system design.
 
 ### Tech Stack
 
-**ML & Data Science**
-* **NLP/LLM:** LangChain, LangGraph, Unsloth (QLoRA), Transformers, ChromaDB, LangSmith.
-* **Classic ML:** Scikit-learn, CatBoost, XGBoost, LightGBM, PyTorch, MLflow.
-* **Data:** SQL, NumPy, Pandas, Matplotlib, Seaborn, SciPy.
+**NLP & LLM**
 
-**Auxiliary tools (Backend & DevOps)**
-* **Languages:** Python (FastAPI, Pydantic), Go, Java/Kotlin.
-* **Infrastructure:** Docker, Git, Bash.
+* PyTorch, Transformers, Unsloth
+* LangGraph, LangChain, LangSmith
+* LightRAG
+* Qdrant, ElasticSearch
+* RAGAS
+* QLoRA, Knowledge Distillation
+* LLM evaluation, structured generation, reranking
+
+**Backend & Infrastructure**
+
+* Python, FastAPI, Pydantic
+* Docker, Git, Bash
+* REST APIs, OpenAI-compatible inference APIs
+
+**Data**
+
+* SQL, NumPy, Pandas
+* Matplotlib, SciPy
 
 ### Core Competencies
-* **LLM Fine-tuning:** experience in Knowledge Distillation (Teacher-Student) and model optimization.
-* **RAG Systems:** building end-to-end retrieval pipelines with advanced chunking and vector storage.
-* **Agentic Workflows:** developing summarization and translation agents using multi-agent architectures.
+
+* **RAG Systems:** end-to-end retrieval pipelines, hybrid and graph-based retrieval, custom chunking, reranking, retrieval and generation evaluation.
+* **Agentic Systems:** orchestration of LLM workflows and multi-agent systems, tool use, stateful execution, and structured outputs.
+* **LLM Evaluation:** dataset construction, retrieval metrics, LLM-based evaluation, baseline comparison, and failure analysis.
+* **LLM Fine-tuning:** QLoRA fine-tuning of 7B models, synthetic dataset generation, knowledge distillation, validation pipelines, and hallucination / format-compliance analysis.
+* **Production LLM Engineering:** integration with inference endpoints, API services, Dockerized environments, configuration management, and reliability-oriented system design.
